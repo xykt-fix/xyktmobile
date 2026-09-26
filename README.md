@@ -1,2 +1,15 @@
 # xyktmobile
-TV channel hud
+
+Catagories: 
+Children/Infantil
+Sports/Deportes
+Normal/Normal
+News/Noticias
+Movies/Peliculas
+
+More coming soon...
+
+
+
+Link:
+https://xykt-fix.github.io/xyktmoble/webplay.html
