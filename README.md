@@ -12,4 +12,4 @@ More coming soon...
 
 
 Link:
-https://xykt-fix.github.io/xyktmoble/webplay.html
+https://xykt-fix.github.io/xyktmobile/webplay.html
