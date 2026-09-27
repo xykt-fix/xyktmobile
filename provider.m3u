@@ -1,0 +1,79 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="902kids.mn" tvg-logo="https://xykt-fix.github.io/xyktmobile/image/892_xm.png" group-title="Children/Infantil", 902 Kids
+https://xyktmobile00.s.gy/PPV892_MONKID
+#EXTINF:-1 tvg-id="Jimjam.hu" tvg-logo="https://xykt-fix.github.io/xyktmobile/image/897_xm.png" group-title="Children/Infantil", Jimjam 
+https://xyktmobile00.s.gy/PPV897_JIMJA_SD
+#EXTINF:-1 tvg-id="DreamTV.mn" tvg-logo="https://xykt-fix.github.io/xyktmobile/image/898_xm.jpeg" group-title="Children/Infantil", Dream TV 
+https://xyktmobile00.s.gy/PPV898_DREAM_BOX
+#EXTINF:-1 tvg-id="CCTV5plus.cn" tvg-logo="https://xykt-fix.github.io/xyktmobile/image/" group-title="Sports/Deportes", CCTV5+
+https://xyktmobile00.s.gy/PPV899_CCTVQP
+#EXTINF:-1 tvg-id="HolaTV.us@LatinAmerica" tvg-logo="https://xykt-fix.github.io/xyktmobile/image/xm_901.png" group-title="Entertainment/Entretenimiento", HOLA TV
+https://xyktmobile00.s.gy/PPV901_HOLA_TV
+#EXTINF:-1 tvg-id="GoldenPremiere.mx" tvg-logo="https://xykt-fix.github.io/xyktmobile/image/xm_902.jpeg" group-title="Movies/Peliculas", Golden Premier 1
+https://xyktmobile00.s.gy/PPV902_GOLDENP1_HD
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-logo="https://xykt-fix.github.io/xyktmobile/image/xm_903.png" group-title="General/General", Canal 5 
+https://xyktmobile00.s.gy/PPV903_CANAL_5
+#EXTINF:-1 tvg-id="MatchPremier.ru" tvg-logo="https://xykt-fix.github.io/xyktmobile/image/xm_904.png" group-title="Sports/Deportes", Match Premier
+https://xyktmobile00.s.gy/PPV904_MATCH_PREMIER
+#EXTINF:-1 tvg-id="CineLatino.mx" tvg-logo="https://xykt-fix.github.io/xyktmobile/image/xm_905.png" group-title="Movies/Peliculas", Cine Latino
+https://xyktmobile00.s.gy/PPV905_CINE_LATINO
+#EXTINF:-1 tvg-id="ClanInternacional.es" tvg-logo="https://xykt-fix.github.io/xyktmobile/image/xm_906.jpeg" group-title="Children/Infantil", Clan Internacional
+https://xyktmobile00.s.gy/PPV906_CLAN_INTE
+#EXTINF:-1 tvg-id="Trece.cl" tvg-logo="https://xykt-fix.github.io/xyktmobile/image/xm_908.png" group-title="General/General", Trece Chile
+https://xyktmobile00.s.gy/PPV908_TRECE_CHILE
+#EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-logo="https://xykt-fix.github.io/xyktmobile/image/xm_909.png" group-title="General/General", America Peru
+https://xyktmobile00.s.gy/PPV909_AMERICA_PERU
+#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-logo="https://xykt-fix.github.io/xyktmobile/image/xm_910.webp" group-title="Children/Infantil", Pakapaka
+https://xyktmobile00.s.gy/PPV910_PAKAKA_ARG
+#EXTINF:-1 tvg-id="PlimPlim.ar" tvg-logo="https://i.imgur.com/MYc8srh.png" group-title="Children/Infantil", Plim Plim TV
+https://xyktmobile00.s.gy/PPV911_CANCION_BEBE
+#EXTINF:-1 tvg-id="Nick.se" tvg-logo="https://xykt-fix.github.io/xyktmobile/image/xm_912.png" group-title="Children/Infantil", Nickeldeon Europea
+https://xyktmobile00.s.gy/PPV912_SCNICK
+#EXTINF:-1 tvg-id="BitmeLatinAmerica.mx" tvg-logo="ttps://xykt-fix.github.io/xyktmobile/image/xm_913.jpeg" group-title="Children/Infantil", Bitme 
+https://xyktmobile00.s.gy/PPV913_BITM_JUE
+#EXTINF:-1 tvg-id="Dreamworks.mx" tvg-logo="ttps://xykt-fix.github.io/xyktmobile/image/xm_913a.png" group-title="Children/Infantil", Dreamworks
+https://xyktmobile00.s.gy/PPV913_DREAMWO?id=1433
+#EXTINF:-1 tvg-id="Galavision.us@West" tvg-logo="" group-title="General/General", Galavision
+https://xyktmobile00.s.gy/PPV914_GALAVISION
+#EXTINF:-1 tvg-id="Babyfirst.us" tvg-logo="" group-title="Children/Infantil", Babyfirst TV
+https://xyktmobile00.s.gy/PPV915_BABYFIR
+#EXTINF:-1 tvg-id="CanalN.ar" tvg-logo="" group-title="General/General", Canal N
+https://xyktmobile00.s.gy/PPV916_CANAL_N
+#EXTINF:-1 tvg-id="KBSworld24.kr" tvg-logo="" group-title="Entertainment/Entretenimiento", KBS World 24
+https://xyktmobile00.s.gy/PPV917_KBSKOR_INT
+#EXTINF:-1 tvg-id="KBSamerica.us" tvg-logo="" group-title="Entertainment/Entretenimiento", KBS america
+https://xyktmobile00.s.gy/PPV918_KBSAMERI
+#EXTINF:-1 tvg-id="KBSNSports.kr" tvg-logo="" group-title="Sports/Deportes", KBS N Spo
+https://xyktmobile00.s.gy/PPV919_KBSNSPO_SD
+#EXTINF:-1 tvg-id="SBS.kr" tvg-logo="" group-title="Entertainment/Entretenimiento", SBS canal PPV
+https://xyktmobile00.s.gy/PPV921_SBS
+#EXTINF:-1 tvg-id="Golftv.us" tvg-logo="" group-title="Sports/Deportes", Golf TV
+https://xyktmobile00.s.gy/PPV922_GOLF_TV
+#EXTINF:-1 tvg-id="1tv.xx" tvg-logo="" group-title="Entertainment/Entretenimiento", KBS Nacional
+https://xyktmobile00.s.gy/PPV923_KBS_NACIONAL
+#EXTINF:-1 tvg-id="2tv.xx" tvg-logo="" group-title="Entertainment/Entretenimiento", KBS canal dos
+https://xyktmobile00.s.gy/PPV924_KBS_CANAL_DOS
+#EXTINF:-1 tvg-id="Enasports.kr" tvg-logo="" group-title="Sports/Deportes", ENA PPV
+https://xyktmobile00.s.gy/PPV925_SKYSPORTS_SD
+#EXTINF:-1 tvg-id="TVsports.xx" tvg-logo="" group-title="Sports/Deportes", TV sports
+https://xyktmobile00.s.gy/PPV926_TVSPORTS
+#EXTINF:-1 tvg-id="MBXsports.xx" tvg-logo="" group-title="Sports/Deportes", MBX sports
+https://xyktmobile00.s.gy/PPV927_MBX_SPORT
+#EXTINF:-1 tvg-id="Lovenature.ca" tvg-logo="" group-title="Documentary/Documentario", Love Nature
+https://xyktmobile00.s.gy/PPV928_LOVE_NATURE
+#EXTINF:-1 tvg-id="CanalCHVNoticias.cl" tvg-logo="" group-title="General/General", Canal CHV Noticias
+https://xyktmobile00.s.gy/PPV929_CIV_NOTICIAS
+#EXTINF:-1 tvg-id="MBC.xx" tvg-logo="" group-title="Entertainment/Entretenimiento", Mbc
+https://xyktmobile00.s.gy/PPV930_S_OPERA_SD
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Entertainment/Entretenimiento", S Play event
+https://xyktmobile00.s.gy/PPV931_SPLAY_EVEN
+#EXTINF:-1 tvg-id="TVHD.xx" tvg-logo="" group-title="Entertainment/Entretenimiento", TVHD
+https://xyktmobile00.s.gy/PPV932_KBSNLI
+#EXTINF:-1 tvg-id="NTN24.co" tvg-logo="" group-title="General/General", Ntn 24
+https://xyktmobile00.s.gy/PPV933_NTNCO
+#EXTINF:-1 tvg-id="DePeliculasLatinAmerica.mx" tvg-logo="" group-title="Movies/Peliculas", De Peliculas
+https://xyktmobile00.s.gy/PPV934_DEPELICU
+#EXTINF:-1 tvg-id="BabyTV.uk@LatinAmerica" tvg-logo="" group-title="Children/Infantil", BabyTV
+https://xyktmobile00.s.gy/PPV935_BABY
+
+#### ---- More channels coming soon... ----- ####
