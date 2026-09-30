@@ -1,5 +1,21 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="SCorbyTV.us" tvg-logo="x" group-title="Children/Infantil", S Corby
-https://xyktmobile00.s.gy/SPLAY_CORBY/0.jtv
+https://xyktmobile00.s.gy/SPLAY_CORBY/0.ts
 #EXTINF:-1 tvg-id="SMetro.us" tvg-logo="x" group-title="Children/Infantil", S Metro
-https://xyktmobile00.s.gy/SPLAY_METRO/0.jtv
+https://xyktmobile00.s.gy/SPLAY_METRO/0.ts
+#EXTINF:-1 tvg-id="SMusicandComedy.us" tvg-logo="x" group-title="Children/Infantil", S Music&Comedy
+https://xyktmobile00.s.gy/SPLAY_MUSICCOM/0.ts
+#EXTINF:-1 tvg-id="SPremium.us" tvg-logo="x" group-title="Children/Infantil", S Premium
+https://xyktmobile00.s.gy/SPLAY_PREM/0.ts
+#EXTINF:-1 tvg-id="SFree.us" tvg-logo="x" group-title="Children/Infantil", S Free
+https://xyktmobile00.s.gy/SPLAY_1/15.ts
+#EXTINF:-1 tvg-id="SCorea.us" tvg-logo="x" group-title="Children/Infantil", S Corea
+https://xyktmobile00.s.gy/SPLAY_KP/30.ts
+#EXTINF:-1 tvg-id="SPlayevent.us" tvg-logo="x" group-title="Children/Infantil", S Play Event
+https://xyktmobile00.s.gy/SPLAY_LIVEPLUS/25.ts
+#EXTINF:-1 tvg-id="NCP.ca" tvg-logo="x" group-title="Music/Musica", New Channel Pop
+https://xyktmobile00.s.gy/SPLAY_NCP/60.ts
+#EXTINF:-1 tvg-id="NC.ca" tvg-logo="x" group-title="Music/Musica", New Channel 
+https://xyktmobile00.s.gy/SPLAY_NCTV/44.ts
+#EXTINF:-1 tvg-id="TRTWorld.tu" tvg-logo="x" group-title="News/Noticias", TRT WORLD
+https://xyktmobile00.s.gy/SPLAY_DISK/135.ts
