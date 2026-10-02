@@ -19,3 +19,7 @@ https://xyktmobile00.s.gy/SPLAY_NCP/60.ts
 https://xyktmobile00.s.gy/SPLAY_NCTV/44.ts
 #EXTINF:-1 tvg-id="TRTWorld.tu" tvg-logo="x" group-title="News/Noticias", TRT WORLD
 https://xyktmobile00.s.gy/SPLAY_DISK/135.ts
+#EXTINF:-1 tvg-id="00.xx" tvg-logo="x" group-title="News/Noticias", Daystar ESP
+https://xyktmobile00.s.gy/SPLAY-DISK/1.ts
+#EXTINF:-1 tvg-id="Cartoon.us" tvg-logo="x" group-title="Children/Infantil", Cartoon Channel
+https://xyktmobile00.s.gy/SPLAY_DISK/92.ts
