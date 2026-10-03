@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<tv generator-info-name="Original XML Generated with Tempest EPG Generator (made by Kvanc) - Processed by Open-EPG Visual Processor v0.9" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+<channel id="Pakapaka.ar"><display-name>Pakapaka.ar</display-name></channel>
+<channel id="PlimPlim.ar"><display-name>PlimPlim.ar</display-name></channel>
+<channel id="902Kids.mn"><display-name>902Kids.mn</display-name></channel>
+<programme start="20261004110000 +0000" stop="20261104113000 +0000" channel="Pakapaka.ar"><title>Cazadores de sonidos</title></programme>
+
+### --- 902 kids --- ###
+  
+<programme start="20261004110000 +0000" stop="20261104113000 +0000" channel="902Kids.mn"><title>Huuhledei kino Pororo</title></programme>
+
+  
+### --- PlimPlim --- ###
+
+<programme start="20261004110000 +0000" stop="20261104113000 +0000" channel="PlimPlim.ar"><title>AM</title></programme>
