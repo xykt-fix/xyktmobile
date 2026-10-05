@@ -1,3 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="x" group-title="x", CV food
 https://xyktmobile00.s.gy/TICK_CVFOOD
+#EXTINF:-1 tvg-id="" tvg-logo="x" group-title="x", CV home
+https://xyktmobile00.s.gy/TICK_CVHOME
+#EXTINF:-1 tvg-id="" tvg-logo="x" group-title="x", CV MEN
+https://xyktmobile00.s.gy/TICK_CVMEN
+#EXTINF:-1 tvg-id="" tvg-logo="x" group-title="x", CV AUTO
+https://xyktmobile00.s.gy/TICK_CVAUTO
+#EXTINF:-1 tvg-id="" tvg-logo="x" group-title="x", CV kids
+https://xyktmobile00.s.gy/TICK_CVKIDS
+#EXTINF:-1 tvg-id="" tvg-logo="x" group-title="x", CV MEZ
+https://xyktmobile00.s.gy/TICK_CHANNELID9EIO
