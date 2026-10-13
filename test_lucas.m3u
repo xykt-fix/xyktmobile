@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MNB.mn" tvg-logo="", Lucas Channel 1
+https://xykt-fix.github.io/cardlivetoken/lucaskids.stream/index.m3u8
+#EXTINF:-1 tvg-id="MNB.mn" tvg-logo="", Lucas Channel 2
+https://xykt-fix.github.io/cardlivetoken/lucaskids2.stream/index.m3u8
