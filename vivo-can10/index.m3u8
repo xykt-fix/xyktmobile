@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="MNB2.ui",Mongoliin Meedee 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/MNB2/HLSv3-FTA/MNB2-avc1_3000000=12-mp4a_156000=19.m3u8
